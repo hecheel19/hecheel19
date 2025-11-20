@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-:"💻":  **Desarrollador Web**
-:"✏️":  **Me Gusta Correr**
-:"👓":  **Me Gusta Aprender**
-:"📱": **Me Gustan Los Autos**
-:"👤": **Buen Desarollador Web**
+:computer:  **Desarrollador Web**
+:pencil:  **Me Gusta Correr**
+:eyesglasses:  **Me Gusta Aprender**
+:car: **Me Gustan Los Autos**
+:person: **Buen Desarollador Web**
 
