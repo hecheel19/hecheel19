@@ -35,6 +35,10 @@ Aquí iré agregando mis proyectos mientras aprendo:
 
 📧 Email: lagloriaesdeyahweh@gmail.com
 
+## 📊 Actividad Reciente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ⭐️ "El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House
 💡 Siempre abierto a aprender y colaborar en nuevos proyectos!
